@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Unannotated duplicate (the annotated copy is papers/2013-zhu-chronosync.pdf)
+ChronoSync ICNP 2013.pdf
